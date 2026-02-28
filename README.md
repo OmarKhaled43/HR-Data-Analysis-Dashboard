@@ -80,15 +80,6 @@ This dashboard aims to analyze:
 
 ---
 
-## 📂 **Files Included**
-
-| File | Description |
-|------|-------------|
-| `Project 2 BI.pbix` | Full Power BI HR Analytics Dashboard |
-| `Screenshot 2026-02-28 144648.png` | Main dashboard preview |
-
----
-
 ## 📥 **Download Full Project**
 
 Click the PBIX file in the repository:  
